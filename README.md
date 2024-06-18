@@ -1,7 +1,7 @@
 ## Small Language Models for Task Planning in Robotics
 
-This repository is for archiving.  
-The repository link suggested in the paper is the following: [Gawon_Choi Github](https://github.com/Gawon-Choi/small-LMs-Task-Planning)  
+_This repository is for archiving.  
+The repository link suggested in the paper is the following: [Gawon_Choi Github](https://github.com/Gawon-Choi/small-LMs-Task-Planning)_
 
 <p>
   
